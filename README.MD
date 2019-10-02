@@ -34,3 +34,6 @@ Underline 2
 - [Esto es un link en Markdown](http://www.google.com)
 - [Esto es un link al index](index.html)
 
+# Imagenes
+![Logo Github](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+
